@@ -1,0 +1,23 @@
+begin Time:2015-10-12 17:06:05 
+begin to synth source = hello,我的世界
+sess_id = ctts1P1HHBHbP8ACHVv5FHHwlvmVe586w9y
+program endTime:2015-10-12 17:06:48 end
+begin Time:2015-10-12 17:07:32 
+Time:2015-10-12 17:07:48 end
+begin Time:2015-10-12 17:08:35 
+Start iat...
+csid=cisr1P1HHBHbP84bHD1R7HHuprHlTHwUtXK,count=0,aus=1,eps=0,rss=2,ret=0
+csid=cisr1P1HHBHbP84bHD1R7HHuprHlTHwUtXK,count=1,aus=2,eps=1,rss=2,ret=0
+csid=cisr1P1HHBHbP84bHD1R7HHuprHlTHwUtXK,count=2,aus=2,eps=1,rss=2,ret=0
+csid=cisr1P1HHBHbP84bHD1R7HHuprHlTHwUtXK,count=3,aus=2,eps=1,rss=2,ret=0
+csid=cisr1P1HHBHbP84bHD1R7HHuprHlTHwUtXK,count=4,aus=2,eps=1,rss=2,ret=0
+csid=cisr1P1HHBHbP84bHD1R7HHuprHlTHwUtXK,count=5,aus=2,eps=1,rss=2,ret=0
+csid=cisr1P1HHBHbP84bHD1R7HHuprHlTHwUtXK,count=6,aus=2,eps=1,rss=2,ret=0
+csid=cisr1P1HHBHbP84bHD1R7HHuprHlTHwUtXK,count=3,aus=2,eps=1,rss=2,ret=0
+csid=cisr1P1HHBHbP84bHD1R7HHuprHlTHwUtXK,rss=2,ret=0
+csid=cisr1P1HHBHbP84bHD1R7HHuprHlTHwUtXK,rss=2,ret=0
+csid=cisr1P1HHBHbP84bHD1R7HHuprHlTHwUtXK,rss=2,ret=0
+csid=cisr1P1HHBHbP84bHD1R7HHuprHlTHwUtXK,rss=2,ret=0
+csid=cisr1P1HHBHbP84bHD1R7HHuprHlTHwUtXK,rss=5,ret=0
+The result is: 楼。
+Time:2015-10-12 17:08:42 end
